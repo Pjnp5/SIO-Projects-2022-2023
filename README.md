@@ -11,6 +11,6 @@
 
 ### Grades:
 
-##### Project 1: null (for now)
+##### Project 1: 15.7
 
 ##### Project 2: 19
